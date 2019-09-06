@@ -27,3 +27,6 @@ def find_the_cheese(snacks = ["crackers", "gouda", "thyme"])
     nil
   end
 end
+
+
+roll_call_dwarves
