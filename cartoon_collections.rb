@@ -29,4 +29,4 @@ def find_the_cheese(snacks = ["crackers", "gouda", "thyme"])
 end
 
 
-roll_call_dwarves
+roll_call_dwarves()
