@@ -10,7 +10,7 @@ def summon_captain_planet(planeteer_calls = ["earth", "wind", "fire", "water", "
   # Your code here
   planeteer_calls.map!{|name| name.capitalize }
   planeteer_calls.map!{|name| name +"!"}
-  puts planeteer_calls
+  planeteer_calls
 end
 
 def long_planeteer_calls(short_words = ["puff", "go", "two"])
