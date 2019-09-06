@@ -22,7 +22,7 @@ def find_the_cheese(snacks = ["crackers", "gouda", "thyme"])
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheese_types.find{}
-  if cheese_types.include?(snacks[1])
+  if 
     puts cheese_types[0]
   else
     nil
