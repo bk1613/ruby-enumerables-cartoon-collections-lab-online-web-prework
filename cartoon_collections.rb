@@ -27,6 +27,3 @@ def find_the_cheese(snacks = ["crackers", "gouda", "thyme"])
     nil
   end
 end
-
-
-summon_captain_planet()
